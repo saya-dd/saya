@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "07e6d04fecf4b74e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_journal/Um guia de introdução a programação.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,8 +177,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "68bdb0177a6320a6",
+  "active": "07e6d04fecf4b74e",
   "lastOpenFiles": [
+    "_daily/2024-06-29.md",
     "readme.md",
     "_journal/Um guia de introdução a programação.md",
     "images/animec.png",
@@ -191,7 +205,6 @@
     "_scrapbook/Predictive Processing and the Free Energy Principle.md",
     "_journal/chinese-ginseng-chicken-tonic-soup.md",
     "_daily/2022-05-11.md",
-    "_daily/2024-06-29.md",
     "_articles/The Exocore Package.md",
     "_articles/Configure Exocore for Personal Use.md",
     "_articles/Exocore Installation Instructions.md",
