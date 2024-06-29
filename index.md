@@ -11,7 +11,7 @@ Este site foi criado com Jekyll.
 
 # Sobre mim
 
-*Quem sou eu online e o que eu faço. Informações de contato; sites que utilizo; computadores e ferraments de software; coisas que eu venho trabalhando; perfis psicológicos e etc.*
+*Quem sou eu online e o que eu faço. Informações de contato; sites que utilizo; computadores e ferramentas de software; coisas que eu venho trabalhando; perfis psicológicos e etc.*
 
 > Kimo-ota. Antropólogo do Ciberespaço. Orientalista. Viajante. Amo minha esposa!
 
