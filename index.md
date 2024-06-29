@@ -27,7 +27,8 @@ Este site foi criado com Jekyll.
 
 
 > Eu não tenho fetiches, mas desviver (inserir a cabeça dentro da vagina de uma mulher resultando na morte de ambos) é definitivamente a conclusão lógica de todos os meus desejos: estar perto de uma mulher, machucar a mesma mulher, retornar ao útero da minha mãe e ser sufocado até a morte. 
-{:.glow}![Eu e quem...](/images/estrangular.jpg)
+
+![Eu e quem...](/images/estrangular.jpg)
 
 ## Trabalho
 
