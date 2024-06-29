@@ -34,7 +34,7 @@ Este site foi criado com Jekyll.
 ## Trabalho
 
 
-Sou um analista de negócios, *shitposter* por amor e escritor por diversão. Trabalho para uma *Fortune 500* desde **2019** e clientes privados desde **2022**.
+Sou um assistente em *business analysis*, *shitposter* por amor e escritor por diversão. Trabalho para uma *Fortune 500* desde **2019** e clientes privados desde **2022**.
 
 ## Pessoal
 
