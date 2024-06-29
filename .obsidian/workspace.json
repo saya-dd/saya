@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "_journal/Um guia de introdução a programação.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "_journal/Um guia de introdução a programação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "_journal/Um guia de introdução a programação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "_journal/Um guia de introdução a programação.md"
               }
             }
           },
@@ -166,6 +166,11 @@
   },
   "active": "68bdb0177a6320a6",
   "lastOpenFiles": [
+    "readme.md",
+    "_journal/Um guia de introdução a programação.md",
+    "images/animec.png",
+    "Untitled.md",
+    "ring.md",
     "music/Miki Matsubara - Stay With Me HD (Club Mix).mp3",
     "music",
     "estrangular.png.md",
@@ -179,12 +184,9 @@
     "assets/favicon/apple-touch-icon.png",
     "assets/favicon/android-chrome-512x512.png",
     "assets/favicon/android-chrome-192x192.png",
-    "ring.md",
-    "readme.md",
     "images/estrangular.jpg",
     "library/buildingTheMemexSixtyYearsLaterTrendsAndDirectionsInPe.pdf",
     "library/Against Intellectual Property_2.pdf",
-    "images/urbit-sigils.png",
     "_wiki/L-Dopa.md",
     "_scrapbook/Predictive Processing and the Free Energy Principle.md",
     "_journal/chinese-ginseng-chicken-tonic-soup.md",
