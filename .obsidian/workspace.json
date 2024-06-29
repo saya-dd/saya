@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_journal/Antônio Aracaju Xuítes Selecionados.md",
+                "file": "readme.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_journal/Antônio Aracaju Xuítes Selecionados.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_journal/Antônio Aracaju Xuítes Selecionados.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_journal/Antônio Aracaju Xuítes Selecionados.md"
+                "file": "readme.md"
               }
             }
           },
@@ -166,10 +166,10 @@
   },
   "active": "0fd2554ce47a9c8d",
   "lastOpenFiles": [
+    "_journal/Antônio Aracaju Xuítes Selecionados.md",
     "_journal/Um guia de introdução a programação.md",
     "_journal/Todo software é uma merda.md",
     "images/aracaju1.png",
-    "_journal/Antônio Aracaju Xuítes Selecionados.md",
     "assets/attachments/Screenshot 2024-06-29 at 19-01-15 Antônio Aracaju on X https __t.co_iuxu6wb3SB _ X.png",
     "assets/attachments/Pasted image 20240629190042.png",
     "index.md",

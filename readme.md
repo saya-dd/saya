@@ -1,7 +1,7 @@
 
 # Princípios
 
-Think-Thank dissidente, base de conhecimento prático e repositório de informações com foco em otimização e simplicidade, fundamentado em heurística e à prova de futuro. O site funciona melhor em aparelhos desktop, então recomendo habilitar o modo desktop do seu navegador caso esteja acessando por um aparelho mobile.
+Think tank dissidente, base de conhecimento prático e repositório de informações com foco em otimização e simplicidade, fundamentado em heurística e à prova de futuro. O site funciona melhor em aparelhos desktop, então recomendo habilitar o modo desktop do seu navegador caso esteja acessando por um aparelho mobile.
 
 Este site foi criado com Jekyll.
 
