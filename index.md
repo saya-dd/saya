@@ -25,8 +25,9 @@ Este site foi criado com Jekyll.
 
 > Eu não tenho conexão com nenhuma pessoa ou grupo que você esteja pensando. 'Papo? Não sei do que você está falando...
 
+> À medida que a Wired consome o Real, as conspirações se transformam em realidade. A fé é a auto-organizadora da verdade, e a sua produção é catalisada por hiper-conecções, manipuladas por algoritmos. Você viverá para ver todas as conspirações — sim, todas as conspirações — se tornarem reais.
 
-> Eu não tenho fetiches, mas "desviver" (inserir a cabeça dentro da vagina de uma mulher resultando na morte de ambos) é definitivamente a conclusão lógica de todos os meus desejos: estar perto de uma mulher, machucar a mesma mulher, retornar ao útero da minha mãe e ser sufocado até a morte. 
+> Eu não tenho fetiches, mas "desviver" (inserir a cabeça dentro da vagina de uma mulher resultando na morte de ambos) é definitivamente a conclusão lógica de todos os meus desejos: estar perto de uma mulher, machucar essa mesma mulher, retornar ao útero da minha mãe e ser sufocado até a morte.
 
 ![Eu e quem...](/images/estrangular.jpg)
 
