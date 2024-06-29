@@ -44,8 +44,6 @@ Resumo minhas opiniões como landiansmo, stirnerismo e, em geral, um desejo por 
 
 Meu sol é em Peixes e meu MBTI é INTJ.
 
-Politicamente eu sou um libertário e um egoista.
-
 Eu tenho uma vira-lata chamada Saya.
 
 ## Links
