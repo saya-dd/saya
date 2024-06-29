@@ -5,13 +5,13 @@
 /* --- Body Colors --- */
 
 $background: #000000;
-$color-inner-divs: black;
-$color-items: black;
+$color-inner-divs: white;
+$color-items: white;
 
 
 /* --- Text Colors --- */
-$color-text: white;
-$color-subtext: white;
+$color-text: blue;
+$color-subtext: blue;
 $color-code: pink;
 $internal-links: orange;
 $external-links: chocolate;
@@ -22,24 +22,24 @@ $color-box-shadow: none;
 
 
 /* --- Borders --- */
-$article-border: 1px solid white;
-$sidebar-border: 1px solid white;
+$article-border: 1px solid blue;
+$sidebar-border: 1px solid blue;
 $prev-next-border: none;
 $color-item-border: none;
 $border-radius: 0px;
 
 /* --- Embeds, Sidenote and Footnote Colors --- */
 $embed-border: thin solid orange;
-$color-embed-background: black;
+$color-embed-background: white;
 $color-embed-title: orange;
-$color-embed-text: white;
+$color-embed-text: blue;
 
 $footnote-border: thin solid orange;
-$color-footnote-background: black;
-$color-footnote-text: white;
+$color-footnote-background: white;
+$color-footnote-text: blue;
 
 $sidenote-border: thin solid $color-primary;
-$color-sidenote-background: black;
+$color-sidenote-background: white;
 $color-sidenote-text: $color-text;
 
 
@@ -108,7 +108,7 @@ hr {
 ================================================== */
 
 code {
-  color: white;
+  color: blue;
   background-color:blue;
   font-family: $font-family-monospace;
   font-size: 1em;
@@ -179,7 +179,7 @@ nav a {
 ================================================== */
 
 .anchor {visibility: hidden; color:gray; opacity:0.7; text-decoration:none; font-size: 0.8em; font-familiy:monospace}
-.anchor:hover {text-decoration:none; color:white !important; cursor:pointer;}
+.anchor:hover {text-decoration:none; color:blue !important; cursor:pointer;}
 h1:hover > a.anchor,
 h2:hover > a.anchor,
 h3:hover > a.anchor,
@@ -214,7 +214,7 @@ h6:hover > a.anchor {
 }
 
 #graph-wrapper svg {
-    border: thin solid white;
+    border: thin solid blue;
 }
 
 /* TABLE OF CONTENTS
@@ -342,7 +342,7 @@ article {
     margin: auto;
     padding-bottom: 0.5em;
     text-align: center;
-    color: white;
+    color: blue;
 }
 
 .related ul {
@@ -699,7 +699,7 @@ font-weight: normal;
     // position: absolute;
     float: right;
     background-color: orange;
-    color: white;
+    color: blue;
     font-weight: normal;
   }
   
@@ -723,7 +723,7 @@ font-weight: normal;
 }
 
 .library-image {
-    background: white;
+    background: blue;
 }
 
 .library-image-container {
@@ -776,7 +776,7 @@ font-weight: normal;
 ================================================== */
 
 .prev-next {
-    border:1px solid white;
+    border:1px solid blue;
     margin-bottom: 0.5em;
     background-color: $background;
 //    display: grid;
@@ -819,9 +819,9 @@ font-weight: normal;
     width: 2em;
     height: 2em;
     float: right;
-    border: 2px solid white;
+    border: 2px solid blue;
     box-sizing: border-box;
-    box-shadow: 0px 0px 0px 1px black;
+    box-shadow: 0px 0px 0px 1px white;
     margin-top: -1em;
 }
 
@@ -927,7 +927,7 @@ table, tr, td {
 
 // Border around the next/previous buttons above and below your posts
 .prev-next, {
-    border: 1px solid white; 
+    border: 1px solid blue; 
     box-sizing: border-box;
 
 }
@@ -994,14 +994,14 @@ table, tr, td {
 }
 
 .border {
-    border: thin solid black;
+    border: thin solid white;
 }
 
 .shadow {
-    box-shadow: 0px 0px 15px black;
+    box-shadow: 0px 0px 15px white;
 }
 
 .glow {
-    box-shadow: 0px 0px 15px white;
+    box-shadow: 0px 0px 15px blue;
 }
 
