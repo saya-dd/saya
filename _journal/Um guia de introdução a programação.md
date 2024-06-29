@@ -11,7 +11,7 @@ Como muitos, quando comecei, passei por uma fase de questionar qual seria a melh
 
 Existem três caminhos possíveis que eu vou citar a seguir.
 
-## 1. Começe de baixo pra cima
+## Começe de baixo pra cima
 
 ![](/images/animec.png)
 
@@ -19,7 +19,7 @@ Comece com C. Simples assim.
 
 O primeiro caminho é C pois, quando você começa a aprender com C, os detalhes arquitetônicos da máquina te guiam de alguma forma sobre o que você pode e não pode fazer. Isso é frequentemente apresentado como um ponto negativo de começar com C, como se você se perdesse em detalhes desnecessários ao invés de focar na resolução de problemas, mas acredito que essa visão está errada: você não tem problemas reais para resolver quando está aprendendo a programar pela primeira vez, você está lidando com problemas artificiais, e se eles são artificiais para se adequar ao ensino de C também são para Python, JavaScript ou qualquer outra linguagem, isso não importa. A programação de baixo nível não bloqueia seu caminho para um conhecimento ideal de "resolução de problemas". C é uma linguagem simples que te faz entender alguns conceitos básicos que ocorrem por trás das cenas, por exemplo, que arrays são slots contínuos na memória, ou que variáveis têm um número específico de bits salvos, ou que letras ASCII são apenas números de 8 bits mostrados de maneira diferente, coisas assim que te dão alguns limites naturais sobre o que é possível.
 
-## 2. QI < 160 = Filtrado. Se o seu for menor do que isso pode pular pra próxima
+## QI < 160 = Filtrado. Se o seu for menor do que isso pode pular pra próxima
 
 O segundo caminho envolve programação funcional - LISP/Scheme especificamente. Concordo que a programação funcional tem valor pedagógico similar ao que mencionei acima: as "fundamentações logico-matemáticas da computação" em vez dos detalhes arquitetônicos são o que fornecem ao iniciante uma diretriz sobre como programar. O currículo funcional essencialmente introduz computação muito básica na forma de funções recursivas que fazem correspondência de padrões. Essa correspondência de padrões é aplicada a tipos de dados simples como listas. Então, estruturas de dados mais complexas como grafos/árvores são introduzidas, e as funções escritas para listas são naturalmente transferidas para essas. Então uma função filter() em uma lista se torna uma filter() em um tipo de árvore, e a progressão parece natural. Isso é contrário aos currículos imperativos onde tudo se torna possível após a introdução de loops, e muitos alunos ficam confusos.
 
@@ -27,7 +27,7 @@ Além disso: tipagem estática forte, correspondência de padrões e monads são
 
 Entretanto, linguagens de programação funcional quase nunca são usadas na indústria, no fim são um grande meme para indivíduos de alto QI. 
 
-## 3. Se você não conseguiu se adaptar a nenhum dos dois caminhos acima, esta é a sua última esperança
+## Se você não conseguiu se adaptar a nenhum dos dois caminhos acima, esta é a sua última esperança
 
 Falam que python em si pode parecer simples, mas por trás das cenas é muito complicada e carece dos benefícios das duas abordagens anteriores que mencionei, nomeadamente ter algo em que se basear, seja a máquina ou fundamentos matemáticos. Mas ainda é uma boa alternativa se alguém tentar as anteriores e não gostar delas. O lado bom de Python, é que se você tem um problema, provavelmente existe alguma biblioteca que te faça trabalhar em algo com aplicações práticas de uma forma bem intuitiva e bem documentada. Você quer automatizar uma planilha do trabalho? Pandas. Automatizar uma ação no navegador? Selenium.
 
