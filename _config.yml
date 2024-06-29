@@ -2,10 +2,10 @@
 # --- USER CONFIGURATION --- #
 ##############################
 
-title: Exocore
-description: A navigable, organised hypertext personal knowledge base
-url: https://exocore.netlify.app
-repository: remiliacorp/exocore
+title: Sayacore
+description: Think Thank Dissidente
+url: https://sayacore.netlify.app
+repository: saya-dd/saya
 
 ##############################################
 # --- ANALYTICS CONFIGURATION (OPTIONAL) --- #

@@ -11,20 +11,15 @@
             "id": "68bdb0177a6320a6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "3aa1ea3782e80e19",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "readme.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "d6b2d5f1cc2afe30",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -90,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "readme.md"
+              }
             }
           },
           {
@@ -146,17 +153,49 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3aa1ea3782e80e19",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "68bdb0177a6320a6",
   "lastOpenFiles": [
+    "assets/imgs/card.png",
+    "assets/imgs/card.jpg",
+    "assets/imgs/pfp.png",
+    "assets/favicon/site.webmanifest",
+    "assets/favicon/favicon.ico",
+    "assets/favicon/favicon-32x32.png",
+    "assets/favicon/favicon-16x16.png",
+    "assets/favicon/apple-touch-icon.png",
+    "assets/favicon/android-chrome-512x512.png",
+    "assets/favicon/android-chrome-192x192.png",
+    "ring.md",
+    "readme.md",
+    "images/estrangular.jpg",
+    "library/buildingTheMemexSixtyYearsLaterTrendsAndDirectionsInPe.pdf",
+    "library/Against Intellectual Property_2.pdf",
+    "images/urbit-sigils.png",
+    "images/water.png",
+    "_wiki/L-Dopa.md",
+    "_scrapbook/Predictive Processing and the Free Energy Principle.md",
+    "_journal/chinese-ginseng-chicken-tonic-soup.md",
+    "_daily/2022-05-11.md",
+    "_daily/2024-06-29.md",
+    "_articles/The Exocore Package.md",
+    "_articles/Configure Exocore for Personal Use.md",
+    "_articles/Exocore Installation Instructions.md",
     "_daily/2022-10-29.md",
     "_daily/2022-10-27.md",
     "_articles/table test.md",
     "_daily/2022-10-25.md",
-    "_articles/Exocore Installation Instructions.md",
     "_articles/Writing with Exocore Syntax.md",
-    "assets/imgs/bg-yotsuba.gif",
-    "_articles/Configure Exocore for Personal Use.md",
-    "_daily/2022-10-23.md",
-    "_daily/2022-05-11.md"
+    "_daily/2022-10-23.md"
   ]
 }

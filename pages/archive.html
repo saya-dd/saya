@@ -15,7 +15,7 @@ tags:
     <div class="archive-grid">
       
       <div class="index-card">
-        <h2 class="post-title">Articles</h2>
+        <h2 class="post-title">Artigos</h2>
         {% assign topic_sort = site.articles | sort: 'topic'%}
         {% for article in topic_sort %}	
           <a class="index-anchor" href="{{ article.url }}">
@@ -29,7 +29,7 @@ tags:
       </div>
   
       <div class="index-card">
-        <h2 class="post-title">Journal Entries</h2>
+        <h2 class="post-title">Posts</h2>
         {% assign topic_sort = site.journal | sort: 'date' | reverse %}
         {% for journal in topic_sort %}	
         <a class="index-anchor" href="{{ journal.url }}">
@@ -43,7 +43,7 @@ tags:
       </div>
 
     <div class="index-card">
-      <h2 class="post-title">Wiki</h2>
+      <h2 class="post-title">Notas</h2>
       {% assign topic_sort = site.wiki | sort: 'topic'%}
       {% for wiki in topic_sort %}	
         <a class="index-anchor" href="{{ wiki.url }}">
