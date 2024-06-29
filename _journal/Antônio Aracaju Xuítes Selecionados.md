@@ -6,5 +6,5 @@ tags:
 ---
 
 #  Antônio Aracaju: Xuítes Selecionados
-
+![](/images/aracaju.jpg)
 ![](/images/aracaju1.png)

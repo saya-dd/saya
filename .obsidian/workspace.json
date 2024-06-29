@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "_journal/Antônio Aracaju Xuítes Selecionados.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "_journal/Antônio Aracaju Xuítes Selecionados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "_journal/Antônio Aracaju Xuítes Selecionados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "_journal/Antônio Aracaju Xuítes Selecionados.md"
               }
             }
           },
@@ -166,6 +166,8 @@
   },
   "active": "0fd2554ce47a9c8d",
   "lastOpenFiles": [
+    "readme.md",
+    "images/antonio.jpg",
     "_journal/Antônio Aracaju Xuítes Selecionados.md",
     "_journal/Um guia de introdução a programação.md",
     "_journal/Todo software é uma merda.md",
@@ -175,7 +177,6 @@
     "index.md",
     "ring.md",
     "_daily/2024-06-29.md",
-    "readme.md",
     "images/animec.png",
     "Untitled.md",
     "music/Miki Matsubara - Stay With Me HD (Club Mix).mp3",
@@ -188,7 +189,6 @@
     "assets/favicon/favicon.ico",
     "assets/favicon/favicon-32x32.png",
     "assets/favicon/favicon-16x16.png",
-    "assets/favicon/apple-touch-icon.png",
     "library/buildingTheMemexSixtyYearsLaterTrendsAndDirectionsInPe.pdf",
     "library/Against Intellectual Property_2.pdf",
     "_wiki/L-Dopa.md",
