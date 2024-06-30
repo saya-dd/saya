@@ -128,8 +128,8 @@ Algumas diretrizes incluídas na Seção 5.1.2 foram omitidas das [Diretrizes de
 
 ### Artigos Relacionados
 
-- [[2024-06-gerenciadores-de-senhas-recomendados]]
-- [[2024-06-complexidade-forçada-de-senhas-considerada-prejudicial]]
+- [[Gerenciadores de Senhas Recomendados]]
+- [[Complexidade Forçada de Senhas Considerada Prejudicial]]
 
 ### Estudos de Apoio
 

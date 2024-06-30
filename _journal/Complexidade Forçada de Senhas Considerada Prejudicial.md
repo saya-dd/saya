@@ -119,7 +119,7 @@ Algumas diretrizes incluídas na Seção 5.1.2 foram omitidas das Diretrizes de 
 #### Artigos Relacionados
 
 - [[2024-06-gerenciadores-de-senhas-recomendados]
-- [[2024-06-descrição-das-diretrizes-de-senhas-do-nist]]
+- [[Descrição das Diretrizes de Senhas do NIST]]
 
 #### Estudos de Apoio
 
