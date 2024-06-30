@@ -8,7 +8,7 @@ foam_template:
   name: Journal Entry
 ---
 
-# Gerenciadores de Senhas recomendados
+# Gerenciadores de Senhas Recomendados
 
 ## Princípios
 
