@@ -2,7 +2,7 @@
 published: true
 subtitle: 
 date: 2024-06-29
-tags: 
+tags: computação segurança software
 ---
 
 #  Todo software é uma merda
